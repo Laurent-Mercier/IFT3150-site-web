@@ -1,6 +1,8 @@
-# Template de site web pour IFT3150
+# Site web pour IFT3150
 
-Ce projet est un template de site web pour le cours IFT3150, construit avec [MkDocs](https://www.mkdocs.org/) et le thème [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+Le site web à jour pour mon projet AntiHook est diposible [ici](https://laurent-mercier.github.io/IFT3150-site-web/).
+
+Ce projet est un site web pour le cours IFT3150, construit avec [MkDocs](https://www.mkdocs.org/) et le thème [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## Prérequis
 
@@ -70,7 +72,3 @@ mkdocs gh-deploy
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-🙋‍♀️ Questions ou problèmes ?
-
-En cas de problème, n'hésitez pas à ouvrir une issue sur GitHub ou à poser des questions au responsable du cours.
