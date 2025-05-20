@@ -1,7 +1,7 @@
-site_name: IFT3150 - Template
-site_description: Template de site web pour le cours IFT3150
-site_author: Louis-Edouard Lafontant
-site_url: https://ift3150-template.github.io
+site_name: IFT3150 - AntiHook
+site_description: Site web pour le cours IFT3150
+site_author: Laurent Mercier
+site_url: https://laurent-mercier.github.io/IFT3150-site-web/
 
 theme:
   name: material
@@ -35,10 +35,10 @@ theme:
     text: Roboto
     code: Roboto Mono
     
-copyright: "&copy; 2025 <b>DIRO</b> &ndash; Template pour le cours IFT3150/IFT4055 <br>Département d'informatique et de recherche opérationnelle <br>Université de Montréal"
+copyright: "&copy; 2025 <b>DIRO</b> &ndash; IFT3150/IFT4055 <br>Département d'informatique et de recherche opérationnelle <br>Université de Montréal"
 
-repo_name: ift3150-template
-repo_url: https://github.com/ift3150-template/ift3150-template.github.io
+repo_name: GitHub du projet
+repo_url: https://github.com/Laurent-Mercier/AntiHook
 # edit_uri: edit/main/docs/
 
 # extra:
@@ -76,8 +76,4 @@ extra_css:
 nav:
   - Vue d'ensemble: index.md
   - Suivi: suivi.md
-  - Études préliminaires: analysis.md
-  - Conception: conception.md
-  - Tests & Évaluation: evaluation.md
-  - Résultats: results.md
   - References: references.md

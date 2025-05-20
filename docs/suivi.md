@@ -2,30 +2,23 @@
 
 ## Semaine 1
 
-??? note "Mettre en place l'environnement"
-    - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - [ ] Vestibulum convallis sit amet nisi a tincidunt
-        * [x] In hac habitasse platea dictumst
-        * [x] In scelerisque nibh non dolor mollis congue sed et metus
-        * [ ] Praesent sed risus massa
-    - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
-
-!!! info "Notes"
-    - Il est possible que nous révisions les exigences après le prototypage
-
-!!! warning "Difficultés rencontrées"
-    - Le plugin Mermaid n'était pas reconnu : confusion entre `mkdocs-mermaid2-plugin` (pip) et `mermaid2` (plugin name)
-        - Résolu après nettoyage et configuration correcte dans `mkdocs.yml`
-
-!!! abstract "Prochaines étapes"
-    - Démarrer l’analyse du problème
-    - Créer la structure de `etudes_preliminaires.md`
-
+!!! abstract "Tâches réalisées lors de la semaine 1"
+    - Lecture des articles de Yuan-Chen Chang sur l'utilisation du ML et des LLMs pour détecter la fraude en ligne.
+    - Familiarisation avec le développement d'extensions web.
 ---
 
 ## Semaine 2
 
+!!! abstract "Tâches réalisées lors de la semaine 2"
+    - Recherche de datasets sur les courriels de phishing.
+    - Scraping des exemples de phishing sur le site du Phish Tank de l'UC Berkeley
+---
+
 ## Semaine 3
+
+!!! abstract "Tâches réalisées lors de la semaine 3"
+    - Début de l'entraînement d'un modèle de ML sur divers datasets.
+    - Test du modèle sur les exemples de phishing extraits du Phish Tank.
 
 ## Semaine 4
 
