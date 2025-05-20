@@ -68,7 +68,3 @@ mkdocs gh-deploy
 1. Modifiez `mkdocs.yml` pour changer la configuration du site
 2. Ajoutez/modifiez les fichiers Markdown (`.md`) dans `docs/`
 3. Personnalisez le thème en modifiant les paramètres dans `mkdocs.yml`
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
