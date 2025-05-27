@@ -22,6 +22,10 @@
 
 ## Semaine 4
 
+!!! abstract "Tâches réalisées lors de la semaine 4"
+    - Début de prototype d'extension web fonctionnel
+    - Test de l'extension sur les exemples du Phish Tank.
+
 ## Semaine 5
 
 ## Semaine 6
