@@ -23,11 +23,15 @@
 ## Semaine 4
 
 !!! abstract "Tâches réalisées lors de la semaine 4"
-    - Début de prototype d'extension web fonctionnel
+    - Début de prototype d'extension web fonctionnel.
     - Test de l'extension sur les exemples du Phish Tank.
 
 ## Semaine 5
 
+!!! abstract "Tâches réalisées lors de la semaine 5"
+    - Réentraînement du modèle avec plus de données.
+    - Ajout de la confiance dans la prise de décision.
+    
 ## Semaine 6
 
 ## Semaine 7
