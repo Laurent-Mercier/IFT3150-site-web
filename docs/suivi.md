@@ -34,11 +34,30 @@
     
 ## Semaine 6
 
+!!! abstract "Tâches réalisées lors de la semaine 6"
+    - Traduction du texte extrait quand il est en français afin d'avoir un modèle bilingue.
+
 ## Semaine 7
+
+!!! abstract "Tâches réalisées lors de la semaine 7"
+    - Amélioration du modèle et de la prise de décision.
+    - Amélioration du dataset pour qu'il soit équitable entre phishing et légitime.
 
 ## Semaine 8
 
+!!! abstract "Tâches réalisées lors de la semaine 8"
+    - Ajout du support pour GMail.
+    - Amélioration du scraping du texte email.
+    - Utilisation de SHAP pour l'explication des décisions.
+
 ## Semaine 9
+
+!!! abstract "Tâches réalisées lors de la semaine 9"
+    - Cross-validation et changement de modèle pour HistGradientBoosting.
+    - Grande amélioration de la confiance du modèle.
+    - Amélioration de l'explication avec SHAP.
+    - Début de tests sur le modèle.
+
 
 ## Semaine 10
 
